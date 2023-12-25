@@ -131,7 +131,7 @@ h6 {
 }
 
 #header .logo a {
-  color: #0C0032;
+  color: #8860D0;
 }
 
 #header .logo a span {
@@ -146,7 +146,7 @@ h6 {
 #  Get Startet Button
 --------------------------------------------------------------*/
 .get-started-btn {
-  color: #0C0032;
+  color: #8860D0;
   border-radius: 4px;
   padding: 7px 25px 8px 25px;
   white-space: nowrap;
@@ -198,7 +198,7 @@ h6 {
   padding: 10px 0 10px 30px;
   font-size: 15px;
   font-weight: 600;
-  color: #0C0032;
+  color: #8860D0;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -227,7 +227,7 @@ h6 {
   z-index: 99;
   opacity: 0;
   visibility: hidden;
-  background: #0C0032;
+  background: #8860D0;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
 }
@@ -287,7 +287,7 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #0C0032;
+  color: #8860D0;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -331,7 +331,7 @@ h6 {
   bottom: 15px;
   left: 15px;
   padding: 10px 0;
-  background-color: #0C0032;
+  background-color: #8860D0;
   overflow-y: auto;
   transition: 0.3s;
 }
@@ -363,7 +363,7 @@ h6 {
   z-index: 99;
   opacity: 1;
   visibility: visible;
-  background: #0C0032;
+  background: #8860D0;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
 }
 
@@ -422,7 +422,7 @@ h6 {
   font-size: 56px;
   font-weight: 700;
   line-height: 64px;
-  color: #0C0032;
+  color: #8860D0;
   font-family: "Poppins", sans-serif;
 }
 
@@ -460,7 +460,7 @@ h6 {
 }
 
 #hero .icon-box h3 a {
-  color: #0C0032;
+  color: #8860D0;
   transition: ease-in-out 0.3s;
 }
 
@@ -590,7 +590,7 @@ section {
 .clients .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: #0C0032;
+  background-color: #8860D0;
   opacity: 1;
   background-color: #ddd;
 }
@@ -643,7 +643,7 @@ section {
   border: 1px solid #ebebeb;
   padding: 80px 80px;
   transition: all ease-in-out 0.3s;
-  background: #0C0032;
+  background: #8860D0;
 }
 
 .services .icon-box .icon {
@@ -687,7 +687,7 @@ section {
 }
 
 .services .icon-box:hover {
-  border-color: #0C0032;
+  border-color: #8860D0;
   box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
   transform: translateY(-10px);
 }
@@ -702,13 +702,13 @@ section {
 }
 
 .cta h3 {
-  color: #0C0032;
+  color: #8860D0;
   font-size: 28px;
   font-weight: 700;
 }
 
 .cta p {
-  color: #0C0032;
+  color: #8860D0;
 }
 
 .cta .cta-btn {
@@ -721,8 +721,8 @@ section {
   border-radius: 4px;
   transition: 0.5s;
   margin-top: 10px;
-  border: 2px solid #0C0032;
-  color: #0C0032;
+  border: 2px solid #8860D0;
+  color: #8860D0;
 }
 
 .cta .cta-btn:hover {
@@ -812,7 +812,7 @@ section {
 
 .portfolio .portfolio-wrap .portfolio-info h4 {
   font-size: 20px;
-  color: #0C0032;
+  color: #8860D0;
   font-weight: 600;
 }
 
@@ -831,7 +831,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a {
-  color: #0C0032;
+  color: #8860D0;
   margin: 0 5px 0 0;
   font-size: 28px;
   display: inline-block;
@@ -873,7 +873,7 @@ section {
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: #0C0032;
+  background-color: #8860D0;
   opacity: 1;
   border: 1px solid #3500D3;
 }
@@ -1033,7 +1033,7 @@ section {
 
 .testimonials .testimonial-item {
   text-align: center;
-  color: #0C0032;
+  color: #8860D0;
 }
 
 .testimonials .testimonial-item .testimonial-img {
@@ -1047,7 +1047,7 @@ section {
   font-size: 20px;
   font-weight: bold;
   margin: 10px 0 5px 0;
-  color: #0C0032;
+  color: #8860D0;
 }
 
 .testimonials .testimonial-item h4 {
@@ -1114,7 +1114,7 @@ section {
 # Team
 --------------------------------------------------------------*/
 .team {
-  background: #0C0032;
+  background: #8860D0;
   padding: 60px 0;
 }
 
@@ -1122,7 +1122,7 @@ section {
   margin-bottom: 20px;
   overflow: hidden;
   border-radius: 5px;
-  background: #0C0032;
+  background: #8860D0;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 
@@ -1201,7 +1201,7 @@ section {
 --------------------------------------------------------------*/
 .contact .info {
   width: 100%;
-  background: #0C0032;
+  background: #8860D0;
 }
 
 .contact .info i {
@@ -1240,7 +1240,7 @@ section {
 
 .contact .php-email-form {
   width: 100%;
-  background: #0C0032;
+  background: #8860D0;
 }
 
 .contact .php-email-form .form-group {
@@ -1249,7 +1249,7 @@ section {
 
 .contact .php-email-form .error-message {
   display: none;
-  color: #0C0032;
+  color: #8860D0;
   background: #ed3c0d;
   text-align: left;
   padding: 15px;
@@ -1262,7 +1262,7 @@ section {
 
 .contact .php-email-form .sent-message {
   display: none;
-  color: #0C0032;
+  color: #8860D0;
   background: #18d26e;
   text-align: center;
   padding: 15px;
@@ -1271,7 +1271,7 @@ section {
 
 .contact .php-email-form .loading {
   display: none;
-  background: #0C0032;
+  background: #8860D0;
   text-align: center;
   padding: 15px;
 }
@@ -1395,7 +1395,7 @@ button.btn-primary {
 #footer {
   background: black;
   padding: 0 0 30px 0;
-  color: #0C0032;
+  color: #8860D0;
   font-size: 14px;
 }
 
@@ -1427,14 +1427,14 @@ button.btn-primary {
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Raleway", sans-serif;
-  color: #0C0032;
+  color: #8860D0;
 }
 
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
   background: #292929;
-  color: #0C0032;
+  color: #8860D0;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -1454,7 +1454,7 @@ button.btn-primary {
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: 600;
-  color: #0C0032;
+  color: #8860D0;
   position: relative;
   padding-bottom: 12px;
 }
@@ -1487,7 +1487,7 @@ button.btn-primary {
 }
 
 #footer .footer-top .footer-links ul a {
-  color: #0C0032;
+  color: #8860D0;
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
@@ -1499,7 +1499,7 @@ button.btn-primary {
 
 #footer .footer-top .footer-newsletter form {
   margin-top: 30px;
-  background: #0C0032;
+  background: #8860D0;
   padding: 6px 10px;
   position: relative;
   border-radius: 4px;
@@ -1539,5 +1539,5 @@ button.btn-primary {
   padding-top: 10px;
   text-align: center;
   font-size: 13px;
-  color: #0C0032;
+  color: #8860D0;
 }
